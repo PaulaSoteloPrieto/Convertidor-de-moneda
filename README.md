@@ -1,7 +1,7 @@
 # Convertidor de moneda
-##Challenge Alura- Convertidor de monedas.
+## Challenge Alura- Convertidor de monedas.
 
-* Este proyecto esta desarrollado para la aplicación de conceptos del curso "Programación orientada a objetos" ** 
+* * Este proyecto esta desarrollado para la aplicación de conceptos del curso "Programación orientada a objetos". * * 
      
 # Descripción:
 Esta aplicación es un convertidor de monedas, le permitirá calcular la tasa de cambio de divisas.
